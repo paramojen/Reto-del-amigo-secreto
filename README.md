@@ -56,3 +56,10 @@ La aplicación está diseñada para ser fácil, con validaciones básicas que ev
 
 4. Añadir un botón para limpiar la lista.
 
+## Agradecimientos
+
+Quiero agradecer a [Alura Latam](https://www.aluracursos.com/) y a todos sus profesores, por sus grandiosos cursos sobre programación, GitHub, HTML y CSS, y desarrollo personal, que me han ayudado a mejorar mis habilidades y a completar este proyecto.
+
+---
+
+Saludos de paramojen ❤️
