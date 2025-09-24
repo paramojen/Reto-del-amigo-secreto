@@ -3,7 +3,7 @@
 Este proyecto consiste en una aplicación web que permite realizar un sorteo de amigos secretos. Los usuarios pueden ingresar los nombres de los amigos en una lista, al darle click al botón "Sortear amigo", se seleccionara automaticamente de manera aleatoria un el nombre de un amigo, y así descubrir quién es el "amigo secreto". 
 La aplicación está diseñada para ser fácil, con validaciones básicas que evitan que haya nombres vacios, o bien, que contengan números. Para crear un nuevo sorteo, solo se introducen nuevos nombres, generando así una nueva lista de amigos. 
 
-<h2>Funcionalidades</h2>
+## Funcionalidades
 
 - Agregar nombres: Los usuarios pueden escribir un nombre en el campo de texto y añadirlo a la lista.
 
@@ -15,7 +15,7 @@ La aplicación está diseñada para ser fácil, con validaciones básicas que ev
 
 - Agregar con Enter: Los usuarios pueden presionar la tecla Enter para añadir un nombre rápidamente.
 
-<h3>Tecnologías utilizadas</h3>
+## Tecnologías utilizadas
 
 
 * HTML5: Estructura de la página.
@@ -25,7 +25,7 @@ La aplicación está diseñada para ser fácil, con validaciones básicas que ev
 * JavaScript: Lógica de validación, agregado de nombres y sorteo aleatorio.
 
 
-<h4>Instalación y uso</h4>
+## Instalación y uso
 
 
 1. Clonar el repositorio o descargar los archivos del proyecto.
@@ -37,4 +37,22 @@ La aplicación está diseñada para ser fácil, con validaciones básicas que ev
 4. Presiona Enter o hacer clic en el botón "Añadir" para agregar cada nombre a la lista.
 
 5. Cuando se cuente con todos los nombres, hacer clic en Sortear amigo para revelar quién es el amigo secreto.
+
+
+## Estructura del proyecto 
+
+- Imágenes y recursos: assets
+- Estilo de la aplicación: style.css
+- Página principal: index.html
+- Lógica de programación (JavaScript): app.js
+
+## Mejoras futuras
+
+1. Permitir guardar los nombres temporalmente para varios sorteos.
+
+2. Añadir opción de imprimir o compartir el resultado.
+
+3. Mejorar el diseño para dispositivos móviles con responsive design.
+
+4. Añadir un botón para limpiar la lista.
 
